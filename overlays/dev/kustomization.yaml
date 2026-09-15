@@ -7,4 +7,4 @@ resources:
   - route.yaml
 images:
   - name: quay.io/tjungbau/simple-app
-    newTag: 1.0.3
+    newTag: 1.0.4
